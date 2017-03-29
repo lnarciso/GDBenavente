@@ -12,4 +12,4 @@ public class GestorSocios {
 	}
 
 }
-ip9uhihuiu
+iymym
